@@ -1,0 +1,5 @@
+{
+  "name": "Kurdish PowerPoint Translator",
+  "description": "An application to translate the text content of .pptx files from English to Kurdish using the Gemini API.",
+  "requestFramePermissions": []
+}
